@@ -1,0 +1,10 @@
+To compile the project:
+
+gcc -o virtualmem virtualmem.c
+
+
+To run :
+./virtualmem 
+
+with appropriate options. USE -h for HELp.
+
